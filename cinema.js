@@ -1,4 +1,4 @@
-var catalogo = require("./database/catalogo.json");
+var catalogo = require("./catalogo.json");
 // console.log(catalogo);
 var catalogoString = JSON.stringify(catalogo);
 // console.log(catalogoString);
